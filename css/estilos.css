@@ -4,3 +4,14 @@ body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+#inicio{
+    background: white;
+    color: darkblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid gray;
+    text-align: left;
+}
+#titulo{
+    display: inline;
+}
